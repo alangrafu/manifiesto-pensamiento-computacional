@@ -30,3 +30,4 @@ Programar es importante porque da herramientas cognitivas útiles para el desarr
 * Buscar un mejor nombre
 * Quienes somos
 * Expandir puntos
+* PLAN DE ACCION
