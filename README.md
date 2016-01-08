@@ -37,6 +37,7 @@ Entre las habilidades que se adquieren mediante el aprendizaje del Pensamiento C
 * aprender a darle las instrucciones a un computador para que resuelva un problema
 * aprender y disfrutar el ser creadores de software y tecnología
 
+[1] Wing, Jeannette M. "Computational thinking." Communications of the ACM 49.3 (2006): 33-35.
 
 # TODO
 
