@@ -13,9 +13,9 @@ Las ideas generales que guían este manifiesto y en donde pensamiento computacio
 
 ## ¿Qué es el pensamiento computacional? ¿Qué es la programación? 
 
-Pensamiento Computacional es un proceso que sistematiza la formulación y posterior solución de problemas que tienen muchas respuestas correctas y muchas formas de llegar a esas respuestas. Incluye habilidades generales como modelar y descomponer un problema, representar y procesar datos, crear procedimientos precisos (llamados algoritmos), y generalizarlos, y está basado en conceptos fundamentales en computación como la abstracción, escalabilidad, complejidad y eficiencia [1]. Posiblemente muchos profesores ya están enseñando algunas de estas habilidades a sus alumnos. Pensamiento Computacional entrega un lenguaje común, y una manera de sistematizar la enseñanza de estas habilidades.
+Pensamiento Computacional es un proceso que sistematiza la formulación y posterior solución de problemas que tienen muchas respuestas correctas y muchas formas de llegar a esas respuestas. Incluye habilidades generales como modelar y descomponer un problema, representar y procesar datos, crear procedimientos precisos (algoritmos), y generalizarlos, y está basado en conceptos fundamentales en computación como la abstracción, escalabilidad, complejidad y eficiencia [1]. Posiblemente muchos profesores ya están enseñando algunas de estas habilidades a sus alumnos. Pensamiento Computacional entrega un lenguaje común, y una manera de sistematizar la enseñanza de estas habilidades.
 
-Programación por su parte es la actividad, por algunos considerada arte, de expresar soluciones a problemas para indicarle de manera precisa a un computador (o a cualquier agente que procese información) qué debe hacer para ayudarnos a resolver estos problemas de manera general y, muchas veces, a un nivel de eficiencia que no podría ser alcanzado por una persona. Aprender Programación de la manera correcta es una de las formas más simples y fáciles de entender y adquirir la mayoría de las habilidades del Pensamiento Computacional. A su vez es la habilidad fundamental para poder utilizar la tecnología computacional a su máxima capacidad.
+Programación por su parte es la actividad, por algunos considerada arte, de expresar soluciones a problemas para indicarle de manera precisa a un computador (o a cualquier agente que procese información) qué debe hacer para ayudarnos a resolver estos problemas de manera general y, muchas veces, a un nivel de eficiencia que no podría ser alcanzado por una persona. Aprender Programación de la manera correcta es una de las formas más simples y fáciles de entender y adquirir la mayoría de las habilidades del Pensamiento Computacional. Programación es a su vez es la habilidad fundamental para poder utilizar la tecnología computacional a su máxima capacidad.
 
 ## ¿Porqué es importante aprender estos conceptos y habilidades desde una edad temprana?
 
@@ -23,15 +23,19 @@ No todos los niños de hoy serán matemáticos, científicos, sociólogos o escr
 
 Entre las habilidades que se adquieren mediante el aprendizaje del Pensamiento Computacional y la Programación se encuentran:
 
+* aprender a abstraer un problema 
 * aprender a definir y entender bien un problema
+* aprender a organizar y representar los datos asociados a un problema
 * aprender que hay más de una solución para un problema
 * aprender que hay más de una forma de llegar a la solución de un problema
-* aprender a dividir un problema grande en varios problemas más pequeños
+* aprender a analizar y comparar diferentes soluciones
+* aprender a dividir un problema en varios problemas más pequeños
 * aprender a cooperar para solucionar un problema
+* aprender a especificar una solución mediante una secuencia clara y lógica de pasos
+* aprender a combinar las soluciones a problemas pequeños para solucionar uno más grande
 * aprender a generalizar la solución de un problema y aplicarla a otros
-* aprender lógica, la cual es una puerta para el pensamiento crítico
+* aprender a darle las instrucciones a un computador para que resuelva un problema
 * aprender y disfrutar el ser creadores de software y tecnología
-
 
 
 # TODO
@@ -41,8 +45,11 @@ Entre las habilidades que se adquieren mediante el aprendizaje del Pensamiento C
 * Expandir puntos
 * PLAN DE ACCION
 
+. . . . . 
 
-# Texto eliminado que puede ser reutilizado
+### Texto eliminado que puede ser reutilizado
+
+* aprender lógica, la cual es una puerta para el pensamiento crítico
 
 entender ideas abstractas y pueden 
 
