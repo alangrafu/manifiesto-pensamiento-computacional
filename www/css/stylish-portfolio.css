@@ -10,11 +10,6 @@ html,
 body {
     width: 100%;
     height: 100%;
-    margin: 0px;
-    padding: 0px;
-}
-
-body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -260,9 +255,9 @@ footer {
 
 @media (max-width: 767px) {
     iframe {
-        max-width: calc(100vw + 40px) !important;   
+        max-width: calc(100vw) !important;
         margin: -11px -25px;}
-    .iframe-wrapper { 
-        width:100vw; 
-        overflow: hidden; 
-        margin: 0 -15px;}  
+    .iframe-wrapper {
+        width:100vw;
+        overflow: hidden;
+        margin: 0 -15px;}
