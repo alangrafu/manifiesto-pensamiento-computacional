@@ -21,15 +21,12 @@ incluidos problemas sociales, políticos, económicos y tecnológicos.
 
 Pensamiento Computacional es un proceso que sistematiza la formulación y posterior solución de problemas que tienen 
 muchas respuestas correctas y muchas formas de llegar a esas respuestas. Incluye habilidades generales como modelar
-y descomponer un problema, representar y procesar datos, crear procedimientos precisos (algoritmos), y generalizarlos,
-y está basado en conceptos fundamentales en computación. Pensamiento Computacional entrega un lenguaje común, y una 
-manera de sistematizar la enseñanza de estas habilidades.
+y descomponer un problema, representar y procesar datos, crear procedimientos precisos, y generalizarlos.
 
 Programación por su parte es la actividad de expresar soluciones a problemas para indicarle de manera precisa a 
 un computador qué debe hacer para ayudarnos a resolver estos problemas. El computador entonces podrá resolver el
-problema de manera general y, muchas veces, a un nivel de eficiencia que no podría ser alcanzado por una persona. 
-Aprender Programación de la manera correcta es una de las formas más simples y fáciles de entender y adquirir la 
-mayoría de las habilidades del Pensamiento Computacional.
+problema de manera general. 
+Aprender Programación de la manera correcta es una de las formas más simples y fáciles de entender el Pensamiento Computacional.
 
 ## ¿Porqué es importante aprender estos conceptos y habilidades desde una edad temprana?
 
